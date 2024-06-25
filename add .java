@@ -20,3 +20,11 @@ class add{
         System.out.println(subject);
     }
 }
+
+/*
+output
+    subject
+courses
+[English, Tamil, Maths, ECE, CSE]*/
+
+    
